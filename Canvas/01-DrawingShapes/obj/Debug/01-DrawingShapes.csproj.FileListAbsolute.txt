@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DOM and UI\Canvas\01-DrawingShapes\bin\01-DrawingShapes.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\Canvas\01-DrawingShapes\bin\01-DrawingShapes.dll
+D:\ПРОГРАМИСТ\DOM and UI\Canvas\01-DrawingShapes\bin\01-DrawingShapes.pdb
+D:\ПРОГРАМИСТ\DOM and UI\Canvas\01-DrawingShapes\obj\Debug\01-DrawingShapes.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DOM and UI\Canvas\01-DrawingShapes\obj\Debug\01-DrawingShapes.dll
+D:\ПРОГРАМИСТ\DOM and UI\Canvas\01-DrawingShapes\obj\Debug\01-DrawingShapes.pdb

@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\02-DivsInCircle\bin\02-DivsInCircle.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\02-DivsInCircle\bin\02-DivsInCircle.dll
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\02-DivsInCircle\bin\02-DivsInCircle.pdb
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\02-DivsInCircle\obj\Debug\02-DivsInCircle.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\02-DivsInCircle\obj\Debug\02-DivsInCircle.dll
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\02-DivsInCircle\obj\Debug\02-DivsInCircle.pdb

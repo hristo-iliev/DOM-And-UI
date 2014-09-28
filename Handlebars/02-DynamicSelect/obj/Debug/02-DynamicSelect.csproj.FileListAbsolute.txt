@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\DOM and UI\Handlebars\02-DynamicSelect\bin\02-DynamicSelect.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\Handlebars\02-DynamicSelect\bin\02-DynamicSelect.dll
+D:\ПРОГРАМИСТ\DOM and UI\Handlebars\02-DynamicSelect\bin\02-DynamicSelect.pdb
+D:\ПРОГРАМИСТ\DOM and UI\Handlebars\02-DynamicSelect\obj\Debug\02-DynamicSelect.dll
+D:\ПРОГРАМИСТ\DOM and UI\Handlebars\02-DynamicSelect\obj\Debug\02-DynamicSelect.pdb

@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DOM and UI\Handlebars\01-GridTable\bin\01-GridTable.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\Handlebars\01-GridTable\bin\01-GridTable.dll
+D:\ПРОГРАМИСТ\DOM and UI\Handlebars\01-GridTable\bin\01-GridTable.pdb
+D:\ПРОГРАМИСТ\DOM and UI\Handlebars\01-GridTable\obj\Debug\01-GridTable.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DOM and UI\Handlebars\01-GridTable\obj\Debug\01-GridTable.dll
+D:\ПРОГРАМИСТ\DOM and UI\Handlebars\01-GridTable\obj\Debug\01-GridTable.pdb

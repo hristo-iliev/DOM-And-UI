@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task2-JQuery\bin\Task2-JQuery.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task2-JQuery\bin\Task2-JQuery.dll
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task2-JQuery\bin\Task2-JQuery.pdb
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task2-JQuery\obj\Debug\Task2-JQuery.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task2-JQuery\obj\Debug\Task2-JQuery.dll
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task2-JQuery\obj\Debug\Task2-JQuery.pdb

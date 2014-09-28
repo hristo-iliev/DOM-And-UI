@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DOM and UI\DOM\01-SelectingDivs\bin\01-SelectingDivs.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\DOM\01-SelectingDivs\bin\01-SelectingDivs.dll
+D:\ПРОГРАМИСТ\DOM and UI\DOM\01-SelectingDivs\bin\01-SelectingDivs.pdb
+D:\ПРОГРАМИСТ\DOM and UI\DOM\01-SelectingDivs\obj\Debug\01-SelectingDivs.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DOM and UI\DOM\01-SelectingDivs\obj\Debug\01-SelectingDivs.dll
+D:\ПРОГРАМИСТ\DOM and UI\DOM\01-SelectingDivs\obj\Debug\01-SelectingDivs.pdb

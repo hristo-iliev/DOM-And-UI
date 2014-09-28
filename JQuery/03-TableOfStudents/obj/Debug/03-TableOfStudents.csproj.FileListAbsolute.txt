@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\03-TableOfStudents\bin\03-TableOfStudents.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\03-TableOfStudents\bin\03-TableOfStudents.dll
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\03-TableOfStudents\bin\03-TableOfStudents.pdb
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\03-TableOfStudents\obj\Debug\03-TableOfStudents.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\03-TableOfStudents\obj\Debug\03-TableOfStudents.dll
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\03-TableOfStudents\obj\Debug\03-TableOfStudents.pdb

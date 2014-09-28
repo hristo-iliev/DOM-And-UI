@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DOM and UI\JqueryPlugins\01-DropdownPlugIn\bin\01-DropdownPlugIn.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\JqueryPlugins\01-DropdownPlugIn\bin\01-DropdownPlugIn.dll
+D:\ПРОГРАМИСТ\DOM and UI\JqueryPlugins\01-DropdownPlugIn\bin\01-DropdownPlugIn.pdb
+D:\ПРОГРАМИСТ\DOM and UI\JqueryPlugins\01-DropdownPlugIn\obj\Debug\01-DropdownPlugIn.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DOM and UI\JqueryPlugins\01-DropdownPlugIn\obj\Debug\01-DropdownPlugIn.dll
+D:\ПРОГРАМИСТ\DOM and UI\JqueryPlugins\01-DropdownPlugIn\obj\Debug\01-DropdownPlugIn.pdb

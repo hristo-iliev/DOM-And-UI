@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\DOM and UI\DOM\03-InputTypeColor\bin\03-InputTypeColor.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\DOM\03-InputTypeColor\bin\03-InputTypeColor.dll
+D:\ПРОГРАМИСТ\DOM and UI\DOM\03-InputTypeColor\bin\03-InputTypeColor.pdb
+D:\ПРОГРАМИСТ\DOM and UI\DOM\03-InputTypeColor\obj\Debug\03-InputTypeColor.dll
+D:\ПРОГРАМИСТ\DOM and UI\DOM\03-InputTypeColor\obj\Debug\03-InputTypeColor.pdb

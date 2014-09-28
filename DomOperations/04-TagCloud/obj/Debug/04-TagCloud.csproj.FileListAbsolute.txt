@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\04-TagCloud\bin\04-TagCloud.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\04-TagCloud\bin\04-TagCloud.dll
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\04-TagCloud\bin\04-TagCloud.pdb
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\04-TagCloud\obj\Debug\04-TagCloud.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\04-TagCloud\obj\Debug\04-TagCloud.dll
+D:\ПРОГРАМИСТ\DOM and UI\DomOperations\04-TagCloud\obj\Debug\04-TagCloud.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-GridTable", "01-GridTable\01-GridTable.csproj", "{ACEE3A5D-7ABF-464F-9146-8DF6E1D8B080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-DynamicSelect", "02-DynamicSelect\02-DynamicSelect.csproj", "{56BDA79D-D488-4A17-86F1-AD4E2238FE09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACEE3A5D-7ABF-464F-9146-8DF6E1D8B080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACEE3A5D-7ABF-464F-9146-8DF6E1D8B080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACEE3A5D-7ABF-464F-9146-8DF6E1D8B080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACEE3A5D-7ABF-464F-9146-8DF6E1D8B080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56BDA79D-D488-4A17-86F1-AD4E2238FE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BDA79D-D488-4A17-86F1-AD4E2238FE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BDA79D-D488-4A17-86F1-AD4E2238FE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BDA79D-D488-4A17-86F1-AD4E2238FE09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

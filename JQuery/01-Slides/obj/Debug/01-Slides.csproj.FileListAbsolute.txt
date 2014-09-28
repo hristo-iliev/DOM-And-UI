@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\01-Slides\bin\01-Slides.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\01-Slides\bin\01-Slides.dll
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\01-Slides\bin\01-Slides.pdb
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\01-Slides\obj\Debug\01-Slides.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\01-Slides\obj\Debug\01-Slides.dll
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\01-Slides\obj\Debug\01-Slides.pdb

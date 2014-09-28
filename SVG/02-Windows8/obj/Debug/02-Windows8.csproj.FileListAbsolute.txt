@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\DOM and UI\SVG\02-Windows8\bin\02-Windows8.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\SVG\02-Windows8\bin\02-Windows8.dll
+D:\ПРОГРАМИСТ\DOM and UI\SVG\02-Windows8\bin\02-Windows8.pdb
+D:\ПРОГРАМИСТ\DOM and UI\SVG\02-Windows8\obj\Debug\02-Windows8.dll
+D:\ПРОГРАМИСТ\DOM and UI\SVG\02-Windows8\obj\Debug\02-Windows8.pdb

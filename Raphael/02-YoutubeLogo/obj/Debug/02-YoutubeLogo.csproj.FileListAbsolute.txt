@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\02-YoutubeLogo\bin\02-YoutubeLogo.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\02-YoutubeLogo\bin\02-YoutubeLogo.dll
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\02-YoutubeLogo\bin\02-YoutubeLogo.pdb
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\02-YoutubeLogo\obj\Debug\02-YoutubeLogo.dll
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\02-YoutubeLogo\obj\Debug\02-YoutubeLogo.pdb

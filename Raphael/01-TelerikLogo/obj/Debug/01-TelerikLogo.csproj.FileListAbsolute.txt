@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\01-TelerikLogo\bin\01-TelerikLogo.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\01-TelerikLogo\bin\01-TelerikLogo.dll
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\01-TelerikLogo\bin\01-TelerikLogo.pdb
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\01-TelerikLogo\obj\Debug\01-TelerikLogo.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\01-TelerikLogo\obj\Debug\01-TelerikLogo.dll
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\01-TelerikLogo\obj\Debug\01-TelerikLogo.pdb

@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DOM and UI\SVG\01-MEAN\bin\01-MEAN.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\SVG\01-MEAN\bin\01-MEAN.dll
+D:\ПРОГРАМИСТ\DOM and UI\SVG\01-MEAN\bin\01-MEAN.pdb
+D:\ПРОГРАМИСТ\DOM and UI\SVG\01-MEAN\obj\Debug\01-MEAN.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DOM and UI\SVG\01-MEAN\obj\Debug\01-MEAN.dll
+D:\ПРОГРАМИСТ\DOM and UI\SVG\01-MEAN\obj\Debug\01-MEAN.pdb

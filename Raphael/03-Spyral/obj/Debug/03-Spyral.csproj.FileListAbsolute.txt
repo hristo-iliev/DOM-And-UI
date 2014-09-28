@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\03-Spyral\bin\03-Spyral.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\03-Spyral\bin\03-Spyral.dll
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\03-Spyral\bin\03-Spyral.pdb
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\03-Spyral\obj\Debug\03-Spyral.dll
+D:\ПРОГРАМИСТ\DOM and UI\Raphael\03-Spyral\obj\Debug\03-Spyral.pdb

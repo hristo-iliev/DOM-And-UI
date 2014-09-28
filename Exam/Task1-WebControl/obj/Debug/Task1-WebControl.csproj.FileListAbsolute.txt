@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task1-WebControl\bin\Task1-WebControl.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task1-WebControl\bin\Task1-WebControl.dll
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task1-WebControl\bin\Task1-WebControl.pdb
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task1-WebControl\obj\Debug\Task1-WebControl.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task1-WebControl\obj\Debug\Task1-WebControl.dll
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task1-WebControl\obj\Debug\Task1-WebControl.pdb

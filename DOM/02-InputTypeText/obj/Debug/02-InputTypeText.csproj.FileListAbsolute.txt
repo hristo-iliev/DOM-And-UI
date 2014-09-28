@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\DOM and UI\DOM\02-InputTypeText\bin\02-InputTypeText.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\DOM\02-InputTypeText\bin\02-InputTypeText.dll
+D:\ПРОГРАМИСТ\DOM and UI\DOM\02-InputTypeText\bin\02-InputTypeText.pdb
+D:\ПРОГРАМИСТ\DOM and UI\DOM\02-InputTypeText\obj\Debug\02-InputTypeText.dll
+D:\ПРОГРАМИСТ\DOM and UI\DOM\02-InputTypeText\obj\Debug\02-InputTypeText.pdb

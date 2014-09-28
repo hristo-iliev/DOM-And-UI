@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DOM and UI\Events\Events\bin\Events.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\Events\Events\bin\Events.dll
+D:\ПРОГРАМИСТ\DOM and UI\Events\Events\bin\Events.pdb
+D:\ПРОГРАМИСТ\DOM and UI\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\DOM and UI\Events\Events\obj\Debug\Events.dll
+D:\ПРОГРАМИСТ\DOM and UI\Events\Events\obj\Debug\Events.pdb

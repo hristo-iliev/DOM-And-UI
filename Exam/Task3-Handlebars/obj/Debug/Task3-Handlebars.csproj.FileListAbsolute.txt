@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task3-Handlebars\bin\Task3-Handlebars.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task3-Handlebars\bin\Task3-Handlebars.dll
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task3-Handlebars\bin\Task3-Handlebars.pdb
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task3-Handlebars\obj\Debug\Task3-Handlebars.dll
+D:\ПРОГРАМИСТ\DOM and UI\Exam\Task3-Handlebars\obj\Debug\Task3-Handlebars.pdb

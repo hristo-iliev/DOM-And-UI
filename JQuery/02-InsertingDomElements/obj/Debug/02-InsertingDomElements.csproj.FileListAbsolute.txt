@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\02-InsertingDomElements\bin\02-InsertingDomElements.dll.config
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\02-InsertingDomElements\bin\02-InsertingDomElements.dll
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\02-InsertingDomElements\bin\02-InsertingDomElements.pdb
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\02-InsertingDomElements\obj\Debug\02-InsertingDomElements.dll
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\02-InsertingDomElements\obj\Debug\02-InsertingDomElements.pdb
+D:\ПРОГРАМИСТ\DOM and UI\JQuery\02-InsertingDomElements\obj\Debug\02-InsertingDomElements.csprojResolveAssemblyReference.cache
